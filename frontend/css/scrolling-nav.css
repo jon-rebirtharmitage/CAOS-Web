@@ -5,12 +5,13 @@
  */
 
 header {
-  padding: 154px 0 100px;
+  /*padding: 154px 0 100px;*/
+  padding: 75px 0 20px;
 }
 
 @media (min-width: 992px) {
   header {
-    padding: 156px 0 100px;
+    /*padding: 156px 0 100px;*/
   }
 }
 
